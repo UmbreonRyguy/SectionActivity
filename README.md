@@ -4,3 +4,5 @@ This is a section assignment about teamwork
 I like genshin impact
 ## How to build
 Build and Push
+## How to run
+press run
