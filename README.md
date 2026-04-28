@@ -1,5 +1,5 @@
 ## About this project
-This is a section assignment about teamwork
+This assignment is about learning teamwork
 ## Our favorite games
 I like genshin impact but not minecraft
 ## How to build
